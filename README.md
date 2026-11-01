@@ -190,8 +190,9 @@ Al finalizar el laboratorio, el estudiante deberá ser capaz de:
 ---
 
 ## Observaciones
-
-Espacio para registrar dificultades encontradas, soluciones implementadas, mejoras realizadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
+- Se integró correctamente la API de DummyJSON separando la lógica de peticiones en un servicio independiente (`productService.js`).
+- Se implementó la navegación entre vistas mediante React Router, junto con estados de carga y manejo de errores.
+- Las funciones de búsqueda, filtrado por categoría, paginación y operaciones CRUD se ejecutaron según los requerimientos del laboratorio.
 
 ---
 
